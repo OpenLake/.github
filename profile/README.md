@@ -2,6 +2,10 @@
 
 This is OpenLake - The Open source programming club of IIT Bhilai
 
+Find us on social media:
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/company/openlake) 
+- 🐦 [Twitter](https://twitter.com/OpenLakeClub)
+
 <!--
 
 **Here are some ideas to get you started:**
