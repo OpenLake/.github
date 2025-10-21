@@ -3,6 +3,7 @@
 This is OpenLake - The Open source programming club of IIT Bhilai
 
 Find us on social media:
+- 🔗 [LinkTree](https://linktr.ee/OpenLakeIITBh)
 - 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/company/openlake) 
 - 🐦 [Twitter](https://twitter.com/OpenLakeClub)
 
